@@ -1,5 +1,6 @@
 [![Travis CI][Travis-Image]][Travis-Url]
 [![ReportCard][ReportCard-Image]][ReportCard-Url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnickithewatt%2Fterrahelp.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnickithewatt%2Fterrahelp?ref=badge_shield)
 
 # Terrahelp
 ##### terraforming, with a little help from your friends
@@ -108,3 +109,7 @@ Terrahelp uses [govendor](https://github.com/kardianos/govendor) to manage it's 
 [Travis-Url]: https://travis-ci.org/opencredo/terrahelp
 [ReportCard-Url]: http://goreportcard.com/report/opencredo/terrahelp
 [ReportCard-Image]: http://goreportcard.com/badge/opencredo/terrahelp
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnickithewatt%2Fterrahelp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnickithewatt%2Fterrahelp?ref=badge_large)
